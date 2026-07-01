@@ -1,5 +1,11 @@
 # 🎤 Smart Switch Control using Microphone Sensor + Relay  
 
+## 📌 Project Status
+**Status:** Arduino home-automation prototype.  
+This repository contains a clap/sound-controlled relay switch sketch and wiring documentation for a small automation model.
+
+---
+
 ## 📖 Project Overview  
 This project demonstrates a **clap/sound-controlled smart switch** using an Arduino, a microphone sensor, and a relay module.  
 When the sensor detects a clap or loud sound, the Arduino toggles the relay state to switch an appliance **ON/OFF**.  

@@ -56,7 +56,7 @@ It’s a simple home automation project that allows you to control lights, fans,
 
 ## 💻 Usage Instructions  
 1. Connect the microphone sensor and relay module as per wiring table.  
-2. Upload the Arduino sketch `Smart_Switch_Relay.ino` to the board.  
+2. Upload the Arduino sketch `Smart_Switch.ino` to the board.  
 3. Connect your appliance (e.g., lamp/fan) to the relay module.  
 4. Clap or make a loud sound near the microphone sensor.  
 5. Watch your appliance turn ON/OFF with each clap! 🎉  
